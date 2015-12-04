@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/EmmanuelOga/ffaker.git
+  revision: b939503a2b7a0a742b0d7f0a9f1fee4f6645b0d0
+  specs:
+    ffaker (2.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -143,6 +149,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  ffaker!
   jbuilder (~> 2.0)
   jquery-rails
   pg (~> 0.15)
